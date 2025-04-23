@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangmin239&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangmin239)](https://github.com/anuraghazra/github-readme-stats)
